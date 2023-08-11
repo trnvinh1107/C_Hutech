@@ -1,2 +1,2 @@
-# C_Hutech
+# C++_Hutech
 full source code pratice c
